@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+# Asset delivery bundle (its images are already in public/)
+HackVita_Website_Assets/
+HackVita_Website_Assets.zip
